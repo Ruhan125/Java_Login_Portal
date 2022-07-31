@@ -117,7 +117,7 @@ public class LogReg {
 		});
 	    
 	    
-	    JLabel l4 = new JLabel("Don't have an account? Signup below:");
+	    JLabel l4 = new JLabel("Don't have an account? Signup below: "); //space added
 	    l4.setBounds(40, 400, 250, 50);
 	    l4.setFont(new Font("Arial", Font.BOLD, 13));
 	    frame.add(l4);
